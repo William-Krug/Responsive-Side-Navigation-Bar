@@ -1,4 +1,4 @@
-# Responsive-Side-Navigation-Bar
+# Responsive Side Navigation Bar
 
 Practice with HTML and CSS to make an interactive and responsive navigation bar.
 
